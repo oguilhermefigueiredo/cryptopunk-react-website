@@ -1,5 +1,7 @@
 # cryptopunk-react-website
 
+https://cryptopunk-react-website.vercel.app/
+
 ![123](https://user-images.githubusercontent.com/97318219/151034599-c5a9382f-de09-4d07-a02a-92c29f0c1446.png)
 
 This website was made using mainly three things:
@@ -10,13 +12,15 @@ This website was made using mainly three things:
 
 -------------------
 
-## Sidebar
+## Sidebar animations
 
 https://user-images.githubusercontent.com/97318219/151034123-b99829c1-c724-4758-bf84-51708de71ed9.mov
 
 ## List of characters
 
 https://user-images.githubusercontent.com/97318219/151034127-96ab242b-77ab-4b34-a301-3a28621deb91.mov
+
+https://user-images.githubusercontent.com/97318219/151036383-f9fc47e6-d89f-409b-b4a6-5968c9dafb74.mov
 
 ---------------------
 
