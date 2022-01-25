@@ -1,0 +1,12 @@
+.app {
+  background: linear-gradient(to bottom, #000000 -5%, #161616 20%, #000000 70%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+  background-blend-mode: multiply;
+  min-height: 100vh;
+  max-width: 100vw;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

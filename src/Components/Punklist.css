@@ -1,0 +1,17 @@
+.punkList {
+  cursor: pointer;
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  min-width: 91.9vw;
+  margin: 0 40px 0px 40px;
+  padding: 50px 20px 50px 20px;  
+
+}
+
+
+
+
+.punkList::-webkit-scrollbar {
+  display: hidden;
+}

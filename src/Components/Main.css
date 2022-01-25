@@ -1,0 +1,129 @@
+.main {
+  max-height: 50vh;
+  margin: 70px 20px 70px 20px;
+}
+
+.mainContent {
+  display: flex;
+  border-bottom: 1px solid #fff;  
+  padding: 30px 0 0px 0;
+  padding-bottom: 40px;
+  
+}
+
+.punkHighlight {
+  flex: 0.25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 20px 20px 0px;
+} 
+
+.rightDetails {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 0;
+}
+
+.punkContainer {
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  margin-right: 20px;
+}
+
+.selectedPunk {
+  object-fit: contain;
+  /* max-width: 500px; */
+  /* max-height: 300px; */
+  max-width: min(30vw, 40vh); 
+  max-height: 30vw; 
+}
+
+.punkDetails {
+  justify-content: space-between;
+  flex-direction: column;
+  flex: 0.75;
+}
+
+.title {
+  display: block;
+  font-size: 95px;
+  font-weight: 800;
+  object-fit: contain;
+}
+
+.colorTitle {
+  background-image: linear-gradient(to top, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;     
+  max-width: 847px;
+  max-height: 114.583px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.itemNumber {
+  color: #a1a5b0;
+  font-size: 72px;
+  justify-content: center;
+}
+
+.owner {
+  display: flex;
+  margin: 10px 0;
+  height: 50px;
+}
+
+.owner > div {
+  margin: 0 5px;
+}
+
+.ownerImageContainer {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+.ownerImageContainer > img {
+  height: 100%;
+  width: 100%;
+}
+
+.ownerDetails {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+.ownerNameAndHand {
+  flex: 1.5;
+  color: white;
+  margin-right: 13rem;
+}
+
+.ownerHandle {
+  color: #00ebfe;
+  align-items: center;
+  justify-content: center;
+}
+
+.ownerLink {
+  display: flex;
+  padding: 12px;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid #fff;
+  margin: 0 0 0 10px;
+}
+
+.ownerLik > img {
+  width: 100%;
+  height: 100%;
+}
+
+
