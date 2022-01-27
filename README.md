@@ -8,7 +8,7 @@ This website was made using mainly three things:
 
 - JavaScript
 - ReactJS
-- API
+- Web 3.0 API
 
 -------------------
 
